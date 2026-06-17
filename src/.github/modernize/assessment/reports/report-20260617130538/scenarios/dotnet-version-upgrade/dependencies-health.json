@@ -1,0 +1,1663 @@
+{
+  "packageGovernance": {
+    "totalDistinctPackages": 34,
+    "totalVersionDriftInstances": 0,
+    "targetFramework": "net10.0",
+    "packages": [
+      {
+        "name": "AngleSharp",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "1.4.0",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "AngleSharp.Xml",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "1.0.0",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Autofac",
+        "totalProjectCount": 3,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "8.0.0",
+            "projects": [
+              "Jackett.Common",
+              "Jackett.Server",
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Autofac.Extensions.DependencyInjection",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "9.0.0",
+            "projects": [
+              "Jackett.Server"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "BencodeNET",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "4.0.0",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "CommandLineParser",
+        "totalProjectCount": 3,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "2.9.1",
+            "projects": [
+              "Jackett.Common",
+              "Jackett.Server",
+              "Jackett.Tray"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "coverlet.msbuild",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "6.0.4",
+            "projects": [
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "DotNet4.SocksProxy",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "1.4.0.1",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "FlareSolverrSharp",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "3.0.7",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "FluentAssertions",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "6.12.1",
+            "projects": [
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Microsoft.AspNetCore.DataProtection",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "10.0.9",
+        "isCompatible": true,
+        "description": "NuGet package upgrade is recommended",
+        "versions": [
+          {
+            "version": "9.0.16",
+            "projects": [
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": "10.0.9"
+        }
+      },
+      {
+        "name": "Microsoft.AspNetCore.Http",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "2.3.9",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Microsoft.AspNetCore.WebUtilities",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "10.0.9",
+        "isCompatible": true,
+        "description": "NuGet package upgrade is recommended",
+        "versions": [
+          {
+            "version": "2.3.9",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": "10.0.9"
+        }
+      },
+      {
+        "name": "Microsoft.CSharp",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "4.7.0",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Microsoft.NET.Test.Sdk",
+        "totalProjectCount": 2,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "17.14.1",
+            "projects": [
+              "Jackett.IntegrationTests",
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "MimeMapping",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "1.0.1.50",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Mono.Posix",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "7.1.0-final.1.21458.1",
+            "projects": [
+              "Jackett.Server"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "MSTest.TestAdapter",
+        "totalProjectCount": 2,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "3.10.4",
+            "projects": [
+              "Jackett.IntegrationTests",
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "MSTest.TestFramework",
+        "totalProjectCount": 2,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "3.10.4",
+            "projects": [
+              "Jackett.IntegrationTests",
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Newtonsoft.Json",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "13.0.4",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "NLog",
+        "totalProjectCount": 2,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "5.5.1",
+            "projects": [
+              "Jackett.Common",
+              "Jackett.Server"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "NLog.Web.AspNetCore",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "5.5.0",
+            "projects": [
+              "Jackett.Server"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "NUnit",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "3.14.0",
+            "projects": [
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "NUnit.ConsoleRunner",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "3.17.0",
+            "projects": [
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "NUnit3TestAdapter",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "4.5.0",
+            "projects": [
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Polly",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "8.6.6",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Selenium.Chrome.WebDriver",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "85.0.0",
+            "projects": [
+              "Jackett.IntegrationTests"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "Selenium.WebDriver",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "4.35.0",
+            "projects": [
+              "Jackett.IntegrationTests"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "SharpZipLib",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "1.4.2",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "System.IO.FileSystem.AccessControl",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "NuGet package functionality is included with framework reference",
+        "versions": [
+          {
+            "version": "5.0.0",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      },
+      {
+        "name": "System.ServiceProcess.ServiceController",
+        "totalProjectCount": 2,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "10.0.9",
+        "isCompatible": true,
+        "description": "NuGet package upgrade is recommended",
+        "versions": [
+          {
+            "version": "9.0.16",
+            "projects": [
+              "Jackett.Common",
+              "Jackett.Server"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": "10.0.9"
+        }
+      },
+      {
+        "name": "System.Text.Encoding.CodePages",
+        "totalProjectCount": 3,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "10.0.9",
+        "isCompatible": true,
+        "description": "NuGet package upgrade is recommended",
+        "versions": [
+          {
+            "version": "9.0.16",
+            "projects": [
+              "Jackett.Common",
+              "Jackett.Server",
+              "Jackett.Test"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": "10.0.9"
+        }
+      },
+      {
+        "name": "System.Text.Json",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "10.0.9",
+        "isCompatible": true,
+        "description": "NuGet package upgrade is recommended",
+        "versions": [
+          {
+            "version": "9.0.16",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": "10.0.9"
+        }
+      },
+      {
+        "name": "YamlDotNet",
+        "totalProjectCount": 1,
+        "distinctVersionCount": 1,
+        "recommendedVersion": "",
+        "isCompatible": true,
+        "description": "",
+        "versions": [
+          {
+            "version": "16.3.0",
+            "projects": [
+              "Jackett.Common"
+            ],
+            "isRecommended": false
+          }
+        ],
+        "upgrade": {
+          "newVersion": ""
+        }
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "DateTimeRoutines",
+      "path": "DateTimeRoutines\\DateTimeRoutines.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "netstandard2.0",
+        "net9.0"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [],
+        "assemblies": [],
+        "projectReferences": [],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    },
+    {
+      "name": "Jackett.Common",
+      "path": "Jackett.Common\\Jackett.Common.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "netstandard2.0",
+        "net9.0"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [
+          {
+            "name": "AngleSharp",
+            "version": "1.4.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "AngleSharp.Xml",
+            "version": "1.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Autofac",
+            "version": "8.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "BencodeNET",
+            "version": "4.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "FlareSolverrSharp",
+            "version": "3.0.7",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "CommandLineParser",
+            "version": "2.9.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "DotNet4.SocksProxy",
+            "version": "1.4.0.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Microsoft.AspNetCore.Http",
+            "version": "2.3.9",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Microsoft.AspNetCore.WebUtilities",
+            "version": "2.3.9",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          },
+          {
+            "name": "Microsoft.CSharp",
+            "version": "4.7.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "MimeMapping",
+            "version": "1.0.1.50",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Newtonsoft.Json",
+            "version": "13.0.4",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "NLog",
+            "version": "5.5.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Polly",
+            "version": "8.6.6",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "SharpZipLib",
+            "version": "1.4.2",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "System.IO.FileSystem.AccessControl",
+            "version": "5.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "NuGet package functionality is included with framework reference",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "System.ServiceProcess.ServiceController",
+            "version": "9.0.16",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          },
+          {
+            "name": "System.Text.Encoding.CodePages",
+            "version": "9.0.16",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          },
+          {
+            "name": "System.Text.Json",
+            "version": "9.0.16",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          },
+          {
+            "name": "YamlDotNet",
+            "version": "16.3.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          }
+        ],
+        "assemblies": [],
+        "projectReferences": [
+          {
+            "name": "DateTimeRoutines",
+            "isTransitive": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Common\\Jackett.Common.csproj"
+              }
+            ],
+            "referencedProjectPath": "DateTimeRoutines\\DateTimeRoutines.csproj",
+            "compatibility": "valid"
+          }
+        ],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    },
+    {
+      "name": "Jackett.IntegrationTests",
+      "path": "Jackett.IntegrationTests\\Jackett.IntegrationTests.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "net9.0",
+        "net471"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [
+          {
+            "name": "Microsoft.NET.Test.Sdk",
+            "version": "17.14.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.IntegrationTests\\Jackett.IntegrationTests.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "MSTest.TestAdapter",
+            "version": "3.10.4",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.IntegrationTests\\Jackett.IntegrationTests.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "MSTest.TestFramework",
+            "version": "3.10.4",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.IntegrationTests\\Jackett.IntegrationTests.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Selenium.Chrome.WebDriver",
+            "version": "85.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.IntegrationTests\\Jackett.IntegrationTests.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Selenium.WebDriver",
+            "version": "4.35.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.IntegrationTests\\Jackett.IntegrationTests.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          }
+        ],
+        "assemblies": [],
+        "projectReferences": [],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    },
+    {
+      "name": "Jackett.Server",
+      "path": "Jackett.Server\\Jackett.Server.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "net9.0",
+        "net471"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [
+          {
+            "name": "Autofac",
+            "version": "8.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Autofac.Extensions.DependencyInjection",
+            "version": "9.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "CommandLineParser",
+            "version": "2.9.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Mono.Posix",
+            "version": "7.1.0-final.1.21458.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "NLog",
+            "version": "5.5.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "NLog.Web.AspNetCore",
+            "version": "5.5.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "System.ServiceProcess.ServiceController",
+            "version": "9.0.16",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          },
+          {
+            "name": "System.Text.Encoding.CodePages",
+            "version": "9.0.16",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          }
+        ],
+        "assemblies": [],
+        "projectReferences": [
+          {
+            "name": "Jackett.Common",
+            "isTransitive": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Server\\Jackett.Server.csproj"
+              }
+            ],
+            "referencedProjectPath": "Jackett.Common\\Jackett.Common.csproj",
+            "compatibility": "valid"
+          }
+        ],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    },
+    {
+      "name": "Jackett.Service",
+      "path": "Jackett.Service\\Jackett.Service.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "net9.0-windows"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [],
+        "assemblies": [],
+        "projectReferences": [
+          {
+            "name": "Jackett.Common",
+            "isTransitive": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Service\\Jackett.Service.csproj"
+              }
+            ],
+            "referencedProjectPath": "Jackett.Common\\Jackett.Common.csproj",
+            "compatibility": "valid"
+          }
+        ],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    },
+    {
+      "name": "Jackett.Test",
+      "path": "Jackett.Test\\Jackett.Test.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "net9.0",
+        "net471"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [
+          {
+            "name": "Autofac",
+            "version": "8.0.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "coverlet.msbuild",
+            "version": "6.0.4",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "FluentAssertions",
+            "version": "6.12.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "Microsoft.AspNetCore.DataProtection",
+            "version": "9.0.16",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          },
+          {
+            "name": "Microsoft.NET.Test.Sdk",
+            "version": "17.14.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "MSTest.TestAdapter",
+            "version": "3.10.4",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "MSTest.TestFramework",
+            "version": "3.10.4",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "NUnit",
+            "version": "3.14.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "NUnit.ConsoleRunner",
+            "version": "3.17.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "NUnit3TestAdapter",
+            "version": "4.5.0",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          },
+          {
+            "name": "System.Text.Encoding.CodePages",
+            "version": "9.0.16",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "description": "NuGet package upgrade is recommended",
+            "compatibility": "valid",
+            "recommendedVersion": "10.0.9",
+            "upgrade": {
+              "newVersion": "10.0.9"
+            }
+          }
+        ],
+        "assemblies": [],
+        "projectReferences": [
+          {
+            "name": "Jackett.Common",
+            "isTransitive": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "referencedProjectPath": "Jackett.Common\\Jackett.Common.csproj",
+            "compatibility": "valid"
+          },
+          {
+            "name": "Jackett.Server",
+            "isTransitive": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Test\\Jackett.Test.csproj"
+              }
+            ],
+            "referencedProjectPath": "Jackett.Server\\Jackett.Server.csproj",
+            "compatibility": "valid"
+          }
+        ],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    },
+    {
+      "name": "Jackett.Tray",
+      "path": "Jackett.Tray\\Jackett.Tray.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "net9.0-windows"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [
+          {
+            "name": "CommandLineParser",
+            "version": "2.9.1",
+            "isTransitive": false,
+            "isGlobal": false,
+            "isImplicit": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Tray\\Jackett.Tray.csproj"
+              }
+            ],
+            "description": "",
+            "compatibility": "valid",
+            "recommendedVersion": ""
+          }
+        ],
+        "assemblies": [],
+        "projectReferences": [
+          {
+            "name": "Jackett.Common",
+            "isTransitive": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Tray\\Jackett.Tray.csproj"
+              }
+            ],
+            "referencedProjectPath": "Jackett.Common\\Jackett.Common.csproj",
+            "compatibility": "valid"
+          }
+        ],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    },
+    {
+      "name": "Jackett.Updater",
+      "path": "Jackett.Updater\\Jackett.Updater.csproj",
+      "isSdk": true,
+      "currentFrameworks": [
+        "net9.0",
+        "net471"
+      ],
+      "targetFramework": "net10.0",
+      "dependencies": {
+        "packages": [],
+        "assemblies": [],
+        "projectReferences": [
+          {
+            "name": "Jackett.Common",
+            "isTransitive": false,
+            "definedIn": [
+              {
+                "path": "Jackett.Updater\\Jackett.Updater.csproj"
+              }
+            ],
+            "referencedProjectPath": "Jackett.Common\\Jackett.Common.csproj",
+            "compatibility": "valid"
+          }
+        ],
+        "frameworkReferences": []
+      },
+      "imports": [
+        {
+          "path": "Directory.Build.props",
+          "isLocal": true
+        }
+      ]
+    }
+  ]
+}
